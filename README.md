@@ -29,10 +29,10 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=devbxtzz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
      <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbxtzz&langs_count=8&theme=tokyonight&layout=compact" />
 </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbxtzz&layout=compact&theme=tokyonight">
-    <img src="https://activity-graph.herokuapp.com/graph?username=devbxtzz&theme=elegant">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    
+    <a href="https://github.com/devbxtzz/github-readme-stats">
   
 <a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://activity-graph.herokuapp.com/graph?username=devbxtzz&theme=elegant">
  
 </div>
