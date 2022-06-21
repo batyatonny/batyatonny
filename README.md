@@ -7,16 +7,13 @@
 <div>
   <p align="center">
   <a href="http://twitter.com/SimonHoiberg">
-    <img src="https://img.shields.io/twitter/follow/SimonHoiberg?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/devbxtzz?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/SimonHoiberg?sub_confirmation=1">
+  <a href="http://youtube.com/devbxtzz?sub_confirmation=1">
     <img src="http://img.shields.io/badge/YouTube-8K-red?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/simonhoiberg/">
+  <a href="https://www.linkedin.com/in/batyatonny/">
     <img src="https://img.shields.io/badge/LinkedIn-20K-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
-  </a>
-  <a href="https://simonhoiberg.com/newsletter">
-    <img src="https://img.shields.io/badge/Newsletter-15K-orange?label=Newsletter&logo=mail&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
 </div> 
