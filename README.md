@@ -12,7 +12,7 @@
   <a href="http://youtube.com/devbxtzz?sub_confirmation=1">
     <img src="http://img.shields.io/badge/YouTube-red?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/batyatonny/">
+  <a href="https://www.linkedin.com/in/batya-tonny-108a92234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
 </p>
