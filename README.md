@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <p align="center">
+  <p>
   <a href="http://twitter.com/devbxtzz">
     <img src="https://img.shields.io/twitter/follow/devbxtzz?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
