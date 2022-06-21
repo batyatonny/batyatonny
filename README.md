@@ -6,14 +6,14 @@
 
 <div>
   <p align="center">
-  <a href="http://twitter.com/SimonHoiberg">
+  <a href="http://twitter.com/devbxtzz">
     <img src="https://img.shields.io/twitter/follow/devbxtzz?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="http://youtube.com/devbxtzz?sub_confirmation=1">
-    <img src="http://img.shields.io/badge/YouTube-8K-red?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="http://img.shields.io/badge/YouTube-red?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/batyatonny/">
-    <img src="https://img.shields.io/badge/LinkedIn-20K-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
 </p>
 </div> 
