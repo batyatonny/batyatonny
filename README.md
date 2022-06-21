@@ -4,6 +4,23 @@
   My name is Batya Tonny and I'm a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development And The Blockchain . I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
+<div>
+  <p align="center">
+  <a href="http://twitter.com/SimonHoiberg">
+    <img src="https://img.shields.io/twitter/follow/SimonHoiberg?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="http://youtube.com/SimonHoiberg?sub_confirmation=1">
+    <img src="http://img.shields.io/badge/YouTube-8K-red?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/simonhoiberg/">
+    <img src="https://img.shields.io/badge/LinkedIn-20K-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+  </a>
+  <a href="https://simonhoiberg.com/newsletter">
+    <img src="https://img.shields.io/badge/Newsletter-15K-orange?label=Newsletter&logo=mail&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
+</div> 
+
 # 🔧 Technologies & Tools
 
 <table>
