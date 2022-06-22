@@ -22,7 +22,12 @@
 
 ### Languages 
 <div align="center">  
- 
+ <img style="margin: 10px" Src="https://img.icons8.com/color/2x/javascript.png" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/2x/python.png" alt="Python" height="50" />
+<img style="margin: 10px" Src="https://img.icons8.com/color/2x/solidity.png" alt="Solidity" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/2x/css3.png" alt="CSS" height="50" />
+<img style="margin: 10px" Src="https://img.icons8.com/color/2x/html-5.png" alt="HTML" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/2x/typescript.png" alt="TypeScript" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -32,11 +37,11 @@
 ### Frameworks 
 <div align="center">   
 <img style="margin: 10px" Src="https://img.icons8.com/color/2x/react-native.png" alt="React" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/2x/node-js.png" alt="NodeJs" height="50" />  
-<img style="margin: 10px" Src="https://img.icons8.com/color/2x/express.png" alt="Django" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/fluency/2x/node-js.png" alt="NodeJs" height="50" />  
+<img style="margin: 10px" Src="https://img.icons8.com/color/2x/express.png" alt="Express" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/bootstrap.png" alt="Bootstrap" height="50" />
 <img style="margin: 10px" Src="https://img.icons8.com/color/2x/django.png" alt="Django" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/2x/nextjs.png" alt="NodeJs" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/color/2x/nextjs.png" alt="NextJs" height="50" /> 
 
  
 </div>
