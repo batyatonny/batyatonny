@@ -42,7 +42,7 @@
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/bootstrap.png" alt="Bootstrap" height="50" />
 <img style="margin: 10px" Src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/nextjs.png" alt="NextJs" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss.svg" alt="Tailwindcss" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwindcss" height="50" />
 
  
 </div>
@@ -58,7 +58,7 @@
 <img style="margin: 10px" Src="https://img.icons8.com/color/2x/mongodb.png" alt="Mongodb" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/git.png" alt="CSS" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/heroku.png" alt="CSS" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat.svg" alt="Hardhat" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" alt="Hardhat" height="50" />
 </div>
 
 </td></tr></table>  
