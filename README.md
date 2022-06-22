@@ -22,7 +22,7 @@
 
 ### Languages 
 <div align="center">  
- <img style="margin: 10px" Src="https://img.icons8.com/color/2x/javascript.png" alt="JavaScript" height="50" />
+<img style="margin: 10px" Src="https://img.icons8.com/color/2x/javascript.png" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/python.png" alt="Python" height="50" />
 <img style="margin: 10px" Src="https://img.icons8.com/color/2x/solidity.png" alt="Solidity" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/css3.png" alt="CSS" height="50" />
@@ -52,9 +52,12 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" Src="" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/2x/mongobd.png" alt="Python" height="50" />
+<img style="margin: 10px" Src="https://img.icons8.com/color/2x/github.png" alt="Solidity" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/2x/git.png" alt="CSS" height="50" />
+<img style="margin: 10px" Src="https://img.icons8.com/color/2x/hardhat.png" alt="HTML" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/2x/heroku.png" alt="TypeScript" height="50" /> 
 </div>
 
 </td></tr></table>  
