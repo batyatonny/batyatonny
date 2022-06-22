@@ -52,14 +52,11 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" Src="" alt="JavaScript" height="50" />
+<img style="margin: 10px" Src="https://img.icons8.com/color/2x/github.png" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="VS-Code" height="50" />
-<img style="margin: 10px" Src="https://img.icons8.com/color/2x/mongodb.png" alt="Solidity" height="50" />
+<img style="margin: 10px" Src="https://img.icons8.com/color/2x/mongodb.png" alt="Mongodb" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/git.png" alt="CSS" height="50" />
-<img style="margin: 10px" Src="https://img.icons8.com/color/2x/hardhat.png" alt="HTML" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/2x/heroku.png" alt="TypeScript" height="50" />
-<img style="margin: 10px" Src="https://img.icons8.com/color/2x/hardhat.png" alt="HTML" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/2x/heroku.png" alt="TypeScript" height="50" /> 
+<img style="margin: 10px" src="https://img.icons8.com/color/2x/heroku.png" alt="Heroku" height="50" />
 </div>
 
 </td></tr></table>  
