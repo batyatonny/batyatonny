@@ -20,29 +20,24 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Languages 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
+ 
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" Src="https://img.icons8.com/windows/2x/django.png" alt="Python" height="50" />
+### Frameworks 
+<div align="center">   
+<img style="margin: 10px" Src="https://img.icons8.com/windows/2x/react-native.png" alt="React" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/fluency/2x/node-js.png" alt="NodeJs" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" Src="https://img.icons8.com/color/2x/express.png" alt="Django" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/2x/bootstrap.png" alt="Bootstrap" height="50" />
+<img style="margin: 10px" Src="https://img.icons8.com/windows/2x/django.png" alt="Django" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/2x/nextjs.png" alt="NodeJs" height="50" />  
+ 
 </div>
 
 </td><td valign="top" width="33%">
