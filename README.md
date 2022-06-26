@@ -38,7 +38,6 @@
 <div align="center">   
 <img style="margin: 10px" Src="https://img.icons8.com/color/2x/react-native.png" alt="React" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/fluency/2x/node-js.png" alt="NodeJs" height="50" />  
-<img style="margin: 10px" Src="https://img.icons8.com/color/2x/express.png" alt="Express" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/bootstrap.png" alt="Bootstrap" height="50" />
 <img style="margin: 10px" Src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/nextjs.png" alt="NextJs" height="50" />
