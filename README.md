@@ -70,5 +70,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=devbxtzz&show_icons=true&theme=tokyonight&layout=compact" />
     <img src="http://github-readme-streak-stats.herokuapp.com?user=devbxtzz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbxtzz&langs_count=8&theme=tokyonight&layout=compact" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=devbxtzz&theme=dark"> 
+    <img src="https://activity-graph.herokuapp.com/graph?username=devbxtzz&theme=onedark"> 
 </div>
