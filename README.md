@@ -7,8 +7,8 @@
 <div>
   <br>
   <p>
-  <a href="http://twitter.com/devbxtzz">
-    <img src="https://img.shields.io/twitter/follow/devbxtzz?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/BatyaTonny">
+    <img src="https://img.shields.io/twitter/follow/BatyaTonny?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/batya-tonny-108a92234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
@@ -67,8 +67,8 @@
 # 📈 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=devbxtzz&show_icons=true&theme=tokyonight&layout=compact" />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=devbxtzz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbxtzz&langs_count=8&theme=tokyonight&layout=compact" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=devbxtzz&theme=dracula"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=batyatonny&show_icons=true&theme=tokyonight&layout=compact" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=batyatonny&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyatonny&langs_count=8&theme=tokyonight&layout=compact" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=batyatonny&theme=dracula"> 
 </div>
