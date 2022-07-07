@@ -1,4 +1,4 @@
-# 👋 Hey there
+# 👋 
 
 <div align="justify">
   I'm Batya Tonny a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development And The Blockchain . I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
