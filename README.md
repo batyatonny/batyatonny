@@ -18,7 +18,7 @@
 
 # 🔧 Technologies & Tools
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" background="#fff">
 
 ### Languages 
 <div align="center">  
@@ -55,9 +55,9 @@
 <a href="https://developer.mozilla.org
 "><img style="margin: 10px" Src="https://img.icons8.com/color/2x/github.png" alt="Github" height="50" /></a>
 <a href="https://www.linkedin.com/in/batya-tonny-108a92234/"><img style="margin: 10px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="VS-Code" height="50" /></a>
-<a href="https://www.linkedin.com/in/batya-tonny-108a92234/"><img style="margin: 10px" Src="https://img.icons8.com/color/2x/mongodb.png" alt="Mongodb" height="50" /></a>
+<a href=""><img style="margin: 10px" Src="https://img.icons8.com/color/2x/mongodb.png" alt="Mongodb" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/git.png" alt="CSS" height="50" /></a>
-<a href="https://www.linkedin.com/in/batya-tonny-108a92234/"><img style="margin: 10px" src="https://img.icons8.com/color/2x/heroku.png" alt="CSS" height="50" /></a>
+<a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/heroku.png" alt="CSS" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" alt="Hardhat" height="50" /></a>
 </div>
 
