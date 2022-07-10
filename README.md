@@ -27,7 +27,7 @@
 <a href=""><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" height="50"/></a>
 <a href="https://developer.mozilla.org"><img style="margin: 10px" src="https://img.icons8.com/color/2x/css3.png" alt="CSS" height="50" /></a>
 <a href="https://www.linkedin.com/in/batya-tonny-108a92234/"><img style="margin: 10px" Src="https://img.icons8.com/color/2x/html-5.png" alt="HTML" height="50" /></a>
-<a href="https://www.linkedin.com/in/batya-tonny-108a92234/"><img style="margin: 10px" src="https://img.icons8.com/color/2x/typescript.png" alt="TypeScript" height="50" /></a>
+<a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/typescript.png" alt="TypeScript" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -36,7 +36,7 @@
 
 ### Frameworks 
 <div align="center">   
-<a href="https://www.linkedin.com/in/batya-tonny-108a92234/"><img style="margin: 10px" Src="https://img.icons8.com/color/2x/react-native.png" alt="React" height="50" /></a>
+<a href="">img style="margin: 10px" Src="https://img.icons8.com/color/2x/react-native.png" alt="React" height="50" /></a>
 <a href="https://www.linkedin.com/in/batya-tonny-108a92234/"><img style="margin: 10px" src="https://img.icons8.com/fluency/2x/node-js.png" alt="NodeJs" height="50" />  
 <a href="https://www.linkedin.com/in/batya-tonny-108a92234/"><img style="margin: 10px" src="https://img.icons8.com/color/2x/bootstrap.png" alt="Bootstrap" height="50" /></a>
 <a href="https://www.linkedin.com/in/batya-tonny-108a92234/"><img style="margin: 10px" Src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django" height="50" /></a>
