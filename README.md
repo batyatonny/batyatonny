@@ -42,6 +42,7 @@
 <a href=""><img style="margin: 10px" Src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/nextjs.png" alt="NextJs" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwindcss" height="50" /></a>
+<a href=""><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwindcss" height="50" /></a>
 
  
 </div>
