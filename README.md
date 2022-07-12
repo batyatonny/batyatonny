@@ -24,7 +24,7 @@
 <div align="center">  
 <a href="https://developer.mozilla.org"><img style="margin: 10px" Src="https://img.icons8.com/color/2x/javascript.png" alt="JavaScript" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/python.png" alt="Python" height="50" /></a>
-<a href=""><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" height="50"/></a>
+<a href=""><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" height="40"/></a>
 <a href="https://developer.mozilla.org"><img style="margin: 10px" src="https://img.icons8.com/color/2x/css3.png" alt="CSS" height="50" /></a>
 <a href=""><img style="margin: 10px" Src="https://img.icons8.com/color/2x/html-5.png" alt="HTML" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/typescript.png" alt="TypeScript" height="50" /></a>
