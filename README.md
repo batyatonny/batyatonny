@@ -73,4 +73,4 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batyatonny&label=Profile%20views&color=0e75b6&style=flat" alt="Batya Tonny" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batyatonny" alt="Batya Tonny" /></a> </p>
+<p align="left"> <a href="https://github.com/batyatonny/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batyatonny" alt="Batya Tonny" /></a> </p>
