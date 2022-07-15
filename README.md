@@ -71,3 +71,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyatonny&langs_count=8&theme=tokyonight&layout=compact" />
     <img src="https://activity-graph.herokuapp.com/graph?username=batyatonny&theme=dracula"> 
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=batyatonny&label=Profile%20views&color=0e75b6&style=flat" alt="Batya Tonny" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batyatonny" alt="Batya Tonny" /></a> </p>
