@@ -1,4 +1,4 @@
-# 👋 I'm Batya Tonny 
+# 👋 I'm Batya Tonny
 
 <div align="justify">
  A Full Stack Developer currently i'm working with JavaScript technologies. Right now i'm focused on learning Back End Web Development And Blockchain . I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
@@ -7,20 +7,21 @@
 <div>
   <br>
   <p>
-  <a href="http://twitter.com/BatyaTonny">
-    <img src="https://img.shields.io/twitter/follow/BatyaTonny?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/devbxtzz">
+    <img src="https://img.shields.io/twitter/follow/devbxtzz?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/batya-tonny-108a92234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
 </p>
-</div> 
+</div>
 
 # 🔧 Technologies & Tools
 
 <table><tr><td valign="top" width="33%">
 
-### Languages 
+### Languages
+
 <div align="center">  
 <a href="https://developer.mozilla.org"><img style="margin: 10px" Src="https://img.icons8.com/color/2x/javascript.png" alt="JavaScript" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/python.png" alt="Python" height="50" /></a>
@@ -32,9 +33,8 @@
 
 </td><td valign="top" width="33%">
 
+### Frameworks
 
-
-### Frameworks 
 <div align="center">   
 <a href=""><img style="margin: 10px" Src="https://img.icons8.com/color/2x/react-native.png" alt="React" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/fluency/2x/node-js.png" alt="NodeJs" height="50" />  
@@ -47,9 +47,8 @@
 
 </td><td valign="top" width="33%">
 
+### Tools
 
-
-### Tools  
 <div align="center">  
 <a href=""><img style="margin: 10px" Src="https://img.icons8.com/color/2x/github.png" alt="Github" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="VS-Code" height="50" /></a>
@@ -59,18 +58,16 @@
 <a href=""><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" alt="Hardhat" height="50" /></a>
 </div>
 
-</td></tr></table>  
-
-          
+</td></tr></table>
 
 # 📈 Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=batyatonny&show_icons=true&theme=tokyonight&layout=compact" />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=batyatonny&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyatonny&langs_count=8&theme=tokyonight&layout=compact" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=batyatonny&theme=dracula"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=devbxtzz&show_icons=true&theme=tokyonight&layout=compact" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=devbxtzz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbxtzz&langs_count=8&theme=tokyonight&layout=compact" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=devbxtzz&theme=dracula"> 
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batyatonny&label=Profile%20views&color=0e75b6&style=flat" alt="Batya Tonny" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devbxtzz&label=Profile%20views&color=0e75b6&style=flat" alt="Batya Tonny" /> </p>
 
-<p align="left"> <a href="https://github.com/batyatonny/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batyatonny" alt="Batya Tonny" /></a> </p>
+<p align="left"> <a href="https://github.com/devbxtzz/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbxtzz" alt="Batya Tonny" /></a> </p>
