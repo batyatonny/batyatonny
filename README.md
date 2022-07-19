@@ -8,7 +8,7 @@
   <br>
   <p>
   <a href="http://twitter.com/devbxtzz">
-    <img src="https://img.shields.io/twitter/follow/devbxtzz?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/devbxtz?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/batya-tonny-108a92234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
