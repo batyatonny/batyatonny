@@ -1,4 +1,4 @@
-# 👋 I'm Batya Tonny a.k.a DevB
+# 👋 I'm Batya Tonny a.k.a DevBx
 
 <div align="justify">
  A Full Stack Developer currently i'm working with JavaScript technologies. Right now i'm focused on learning Back End Web Development And Blockchain . I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
