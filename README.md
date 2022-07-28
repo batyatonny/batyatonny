@@ -1,7 +1,7 @@
 # 👋 I'm Batya Tonny a.k.a DevBxtzz
 
 <div align="justify">
- A Full Stack Developer currently working with JavaScript technologies. Right now i'm focused on learning Back End Web Development And Blockchain . I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+ A Full Stack Developer I'm currently working with JavaScript technologies. Right now i'm focused on learning Back End Web Development And Blockchain . I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 <div>
